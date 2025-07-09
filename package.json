@@ -1,9 +1,9 @@
 {
-  "name": "telegram-registration",
+  "name": "stage-tlg-reg",
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://KeeperPharaoh.github.io/telegram-registration/",
+  "homepage": "https://KeeperPharaoh.github.io/stage-tlg-reg/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

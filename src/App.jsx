@@ -324,7 +324,7 @@ function MainApp() {
 
 export default function App() {
   return (
-    <Router basename="/telegram-registration">
+    <Router basename="/stage-tlg-reg">
       <Routes>
         <Route path="/" element={<MainApp />} />
         <Route path="terms" element={<Terms />} />
